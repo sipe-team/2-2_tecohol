@@ -38,7 +38,7 @@
     </td>
     <td align="center" valign="top" width="20%">
       <a href="https://github.com/SangchoKim">
-        <img src="https://github.com/sipe-team/2-2_tecohol/assets/36231361/579ad768-d070-4edf-8365-3e57faca507a" alt=""/>
+        <img src="https://avatars.githubusercontent.com/SangchoKim" alt=""/>
         <br />
         <b>김상초</b>
         <br />
@@ -49,7 +49,7 @@
     </td>
     <td align="center" valign="top" width="20%">
       <a href="https://github.com/danmin20">
-        <img src="https://avatars.githubusercontent.com/u/50590192?v=4" alt=""/>
+        <img src="https://avatars.githubusercontent.com/SangchoKim" alt=""/>
         <br />
         <b>이미연</b>
         <br />
