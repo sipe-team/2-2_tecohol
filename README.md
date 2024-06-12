@@ -37,13 +37,13 @@
       </a>
     </td>
     <td align="center" valign="top" width="20%">
-      <a href="https://github.com/danmin20">
-        <img src="https://avatars.githubusercontent.com/u/50590192?v=4" alt=""/>
+      <a href="https://github.com/SangchoKim">
+        <img src="https://github.com/sipe-team/2-2_tecohol/assets/36231361/579ad768-d070-4edf-8365-3e57faca507a" alt=""/>
         <br />
         <b>김상초</b>
         <br />
-        <a href="https://www.jeong-min.com/">
-          https://www.jeong-min.com/
+        <a href="https://sangcho.tistory.com/">
+          https://sangcho.tistory.com/
         </a>
       </a>
     </td>
