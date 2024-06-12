@@ -64,8 +64,8 @@
         <br />
         <b>이준영</b>
         <br />
-        <a href="https://www.jeong-min.com/">
-          https://www.jeong-min.com/
+        <a href="https://snownow.tistory.com/">
+            블로그
         </a>
       </a>
     </td>
