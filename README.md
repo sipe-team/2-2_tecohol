@@ -48,15 +48,16 @@
       </a>
     </td>
     <td align="center" valign="top" width="20%">
-      <a href="https://github.com/danmin20">
-        <img src="https://avatars.githubusercontent.com/SangchoKim" alt=""/>
+      <a href="https://github.com/iammiori">
+        <img src="https://avatars.githubusercontent.com/u/46439995?v=4" alt=""/>
         <br />
         <b>이미연</b>
         <br />
-        <a href="https://www.jeong-min.com/">
-          https://www.jeong-min.com/
-        </a>
+<!--         <a href="https://www.jeong-min.com/">
+          🚜 열심히 생성중..
+        </a> -->
       </a>
+              🚜 열심히 생성중..
     </td>
     <td align="center" valign="top" width="20%">
       <a href="https://github.com/Lee-Jun-Young">
