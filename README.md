@@ -16,57 +16,56 @@
   <tr>
     <td align="center" valign="top" width="20%">
       <a href="https://github.com/danmin20">
-        <img src="https://avatars.githubusercontent.com/u/50590192?v=4" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/50590192?v=4" alt="" width="150px"/>
         <br />
         <b>이정민</b>
         <br />
         <a href="https://www.jeong-min.com/">
-          https://www.jeong-min.com/
+          jeong-min.com
         </a>
       </a>
     </td>
     <td align="center" valign="top" width="20%">
       <a href="https://github.com/stat-kwon">
-        <img src="https://avatars.githubusercontent.com/u/83386688?v=4" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/83386688?v=4" alt="" width="150px"/>
         <br />
         <b>권설민</b>
         <br />
-        <a href="https://www.jeong-min.com/">
-          https://www.jeong-min.com/
+        <a href="">
+          ???
         </a>
       </a>
     </td>
     <td align="center" valign="top" width="20%">
       <a href="https://github.com/SangchoKim">
-        <img src="https://avatars.githubusercontent.com/SangchoKim" alt=""/>
+        <img src="https://avatars.githubusercontent.com/SangchoKim" alt="" width="150px"/>
         <br />
         <b>김상초</b>
         <br />
         <a href="https://sangcho.tistory.com/">
-          https://sangcho.tistory.com/
+          sangcho.tistory.com
         </a>
       </a>
     </td>
     <td align="center" valign="top" width="20%">
       <a href="https://github.com/iammiori">
-        <img src="https://avatars.githubusercontent.com/u/46439995?v=4" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/46439995?v=4" alt="" width="150px"/>
         <br />
         <b>이미연</b>
         <br />
-<!--         <a href="https://www.jeong-min.com/">
+        <a href="">
           🚜 열심히 생성중..
-        </a> -->
+        </a>
       </a>
-              🚜 열심히 생성중..
     </td>
     <td align="center" valign="top" width="20%">
       <a href="https://github.com/Lee-Jun-Young">
-        <img src="https://avatars.githubusercontent.com/u/47595801?v=4" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/47595801?v=4" alt="" width="150px"/>
         <br />
         <b>이준영</b>
         <br />
         <a href="https://snownow.tistory.com/">
-            블로그
+          snownow.tistory.com
         </a>
       </a>
     </td>
@@ -86,6 +85,7 @@
 
 - 이정민
   - [Promise 씹고 뜯고 맛보고 즐기고](https://www.jeong-min.com/67-%08promise/)
+  - [var/let/const로 알아보는 호이스팅과 TDZ](https://www.jeong-min.com/68-hoisting/)
 - 권설민
 - 김상초
 - 이미연
@@ -96,6 +96,12 @@
 ## 중간 점검
 - 2주차
   - 이정민: 1개
+  - 권설민: 0개
+  - 김상초: 0개
+  - 이미연: 0개
+  - 이준영: 0개
+- 4주차
+  - 이정민: 2개
   - 권설민: 0개
   - 김상초: 0개
   - 이미연: 0개
