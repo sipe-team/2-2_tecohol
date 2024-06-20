@@ -31,8 +31,8 @@
         <br />
         <b>권설민</b>
         <br />
-        <a href="">
-          ???
+        <a href="https://dev-sseol.tistory.com/">
+          dev-sseol.tistory.com
         </a>
       </a>
     </td>
