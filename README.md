@@ -86,6 +86,7 @@
 - 이정민
   - [Promise 씹고 뜯고 맛보고 즐기고](https://www.jeong-min.com/67-%08promise/)
   - [var/let/const로 알아보는 호이스팅과 TDZ](https://www.jeong-min.com/68-hoisting/)
+  - [웹 성능 개선, 하고 싶나요? Speculation Rules API](https://www.jeong-min.com/69-speculation-rules-api/)
 - 권설민
 - 김상초
 - 이미연
@@ -93,7 +94,7 @@
 
 &nbsp;
 
-## 중간 점검
+## 중간 점검 (총 글 개수)
 - 2주차
   - 이정민: 1개
   - 권설민: 0개
@@ -102,6 +103,12 @@
   - 이준영: 0개
 - 4주차
   - 이정민: 2개
+  - 권설민: 0개
+  - 김상초: 0개
+  - 이미연: 0개
+  - 이준영: 0개
+- 6주차
+  - 이정민: 0개
   - 권설민: 0개
   - 김상초: 0개
   - 이미연: 0개
