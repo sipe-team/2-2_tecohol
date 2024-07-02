@@ -87,6 +87,7 @@
   - [Promise 씹고 뜯고 맛보고 즐기고](https://www.jeong-min.com/67-%08promise/)
   - [var/let/const로 알아보는 호이스팅과 TDZ](https://www.jeong-min.com/68-hoisting/)
   - [웹 성능 개선, 하고 싶나요? Speculation Rules API](https://www.jeong-min.com/69-speculation-rules-api/)
+  - [Node.js로 CLI 프로그램 만들어서 npm 배포하기 (npx danmin)](https://www.jeong-min.com/70-cli/)
 - 권설민
 - 김상초
   - [[CS시리즈] 중앙처리장치(CPU)](https://sangcho.tistory.com/entry/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98CPU)
@@ -112,10 +113,10 @@
   - 권설민: 0개
   - 김상초: 2개
   - 이미연: 0개
-  - 이준영: 1개
+  - 이준영: 2개
 - 6주차
-  - 이정민: 0개
+  - 이정민: 4개
   - 권설민: 0개
-  - 김상초: 1개
+  - 김상초: 3개
   - 이미연: 0개
-  - 이준영: 1개
+  - 이준영: 3개
