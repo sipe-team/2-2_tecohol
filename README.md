@@ -93,6 +93,7 @@
   - [[CS시리즈] 중앙처리장치(CPU)](https://sangcho.tistory.com/entry/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98CPU)
   - [[CS시리즈] 파이프라이닝](https://sangcho.tistory.com/entry/%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8B%9D)
   - [[CS시리즈] 처리장치](https://sangcho.tistory.com/entry/%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98)
+  - [[CS시리즈] 제어장치](https://sangcho.tistory.com/entry/%EC%A0%9C%EC%96%B4%EC%9E%A5%EC%B9%98)
 - 이미연
 - 이준영
   - [Compose 이펙트 핸들러](https://snownow.tistory.com/111)
