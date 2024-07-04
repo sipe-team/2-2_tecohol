@@ -99,6 +99,7 @@
   - [Compose 이펙트 핸들러](https://snownow.tistory.com/111)
   - [드로이드나이츠 2024 후기](https://snownow.tistory.com/112)
   - [Shared Element Transition 적용해보자!!](https://snownow.tistory.com/113)
+  - [상태 스냅샷 시스템](https://snownow.tistory.com/114)
 
 &nbsp;
 
@@ -120,4 +121,4 @@
   - 권설민: 0개
   - 김상초: 4개
   - 이미연: 0개
-  - 이준영: 3개
+  - 이준영: 4개
